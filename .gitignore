@@ -1,0 +1,5 @@
+# Ignore all files and folders related to the IDEA IDE
+.idea/
+*.iml
+
+out/
