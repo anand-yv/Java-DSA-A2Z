@@ -8,6 +8,10 @@ This repository contains my solutions for the [Striver's A2Z DSA Course](https:/
 - [Learn the Basics](#learn-the-basics)
     - [Things to Know in Language](#things-to-know-in-language)
     - [Build Up Logical Thinking](#build-up-logical-thinking)
+    - [Java Collections](#java-collections)
+    - [Know Basic Maths](#know-basic-maths)
+    - [Learn Basic Recursion](#learn-basic-recursion)
+    - [Learn Basic Hashing](#learn-basic-hashing)
 - [Sorting Techniques](#sorting-techniques)
   - [Sorting 1](#sorting-1)
   - [Sorting 2](#sorting-2)
@@ -37,7 +41,54 @@ This repository contains my solutions for the [Striver's A2Z DSA Course](https:/
 ### Build Up Logical Thinking
 - [Pattern 01](Step01_LearnTheBasics/Prep02_BuildUpLogicalThinkingPatterns/Pattern001.java)
 - [Pattern 02](Step01_LearnTheBasics/Prep02_BuildUpLogicalThinkingPatterns/Pattern002.java)
-- [Pattern 03](Step01_LearnTheBasics/Prep02_BuildUpLogicalThinkingPatterns/Pattern002.java)
+- [Pattern 03](Step01_LearnTheBasics/Prep02_BuildUpLogicalThinkingPatterns/Pattern003.java)
+- [Pattern 04](Step01_LearnTheBasics/Prep02_BuildUpLogicalThinkingPatterns/Pattern004.java)
+- [Pattern 05](Step01_LearnTheBasics/Prep02_BuildUpLogicalThinkingPatterns/Pattern005.java)
+- [Pattern 06](Step01_LearnTheBasics/Prep02_BuildUpLogicalThinkingPatterns/Pattern006.java)
+- [Pattern 07](Step01_LearnTheBasics/Prep02_BuildUpLogicalThinkingPatterns/Pattern007.java)
+- [Pattern 08](Step01_LearnTheBasics/Prep02_BuildUpLogicalThinkingPatterns/Pattern008.java)
+- [Pattern 09](Step01_LearnTheBasics/Prep02_BuildUpLogicalThinkingPatterns/Pattern009.java)
+- [Pattern 11](Step01_LearnTheBasics/Prep02_BuildUpLogicalThinkingPatterns/Pattern011.java)
+- [Pattern 12](Step01_LearnTheBasics/Prep02_BuildUpLogicalThinkingPatterns/Pattern012.java)
+- [Pattern 13](Step01_LearnTheBasics/Prep02_BuildUpLogicalThinkingPatterns/Pattern013.java)
+- [Pattern 14](Step01_LearnTheBasics/Prep02_BuildUpLogicalThinkingPatterns/Pattern014.java)
+- [Pattern 15](Step01_LearnTheBasics/Prep02_BuildUpLogicalThinkingPatterns/Pattern015.java)
+- [Pattern 16](Step01_LearnTheBasics/Prep02_BuildUpLogicalThinkingPatterns/Pattern016.java)
+- [Pattern 17](Step01_LearnTheBasics/Prep02_BuildUpLogicalThinkingPatterns/Pattern017.java)
+- [Pattern 18](Step01_LearnTheBasics/Prep02_BuildUpLogicalThinkingPatterns/Pattern018.java)
+- [Pattern 19](Step01_LearnTheBasics/Prep02_BuildUpLogicalThinkingPatterns/Pattern019.java)
+- [Pattern 20](Step01_LearnTheBasics/Prep02_BuildUpLogicalThinkingPatterns/Pattern020.java)
+- [Pattern 21](Step01_LearnTheBasics/Prep02_BuildUpLogicalThinkingPatterns/Pattern021.java)
+- [Pattern 22](Step01_LearnTheBasics/Prep02_BuildUpLogicalThinkingPatterns/Pattern022.java)
+
+### Java Collections
+- [Java Collection](Step01_LearnTheBasics/Prep03_JavaCollections/JavaCollections.java)
+
+### Know Basic Maths
+- [Count Digits](Step01_LearnTheBasics/Prep04_KnowBasicMaths/P01_CountDigits.java)
+- [Reverse a Number](Step01_LearnTheBasics/Prep04_KnowBasicMaths/P02_ReverseInteger.java)
+- [Check Palindrome](Step01_LearnTheBasics/Prep04_KnowBasicMaths/P03_CheckPalindrome.java)
+- [GCD or HCF](Step01_LearnTheBasics/Prep04_KnowBasicMaths/P04_GcdHcf.java)
+- [Armstrong Numbers](Step01_LearnTheBasics/Prep04_KnowBasicMaths/P05_ArmstrongNumber.java)
+- [Print all Divisors](Step01_LearnTheBasics/Prep04_KnowBasicMaths/P06_PrintAllDivisors.java)
+- [Check for Prime](Step01_LearnTheBasics/Prep04_KnowBasicMaths/P07_CheckPrime.java)
+
+### Learn Basic Recursion
+- [Understand recursion by print something N times](Step01_LearnTheBasics/Prep05_BasicRecursion/P01_UnderstandingRecursion.java)
+- [Print name N times using recursion](Step01_LearnTheBasics/Prep05_BasicRecursion/P02_NameNTimes.java)
+- [Print 1 to N using recursion](Step01_LearnTheBasics/Prep05_BasicRecursion/P03_1toN.java)
+- [Print N to 1 using recursion](Step01_LearnTheBasics/Prep05_BasicRecursion/P04_Nto1.java)
+- [Sum of first N numbers](Step01_LearnTheBasics/Prep05_BasicRecursion/P05_SumOfN.java)
+- [Factorial of N numbers](Step01_LearnTheBasics/Prep05_BasicRecursion/P06_Factorial.java)
+- [Reverse an array](Step01_LearnTheBasics/Prep05_BasicRecursion/P07_ReverseArray.java)
+- [Check if a string is palindrome or not](Step01_LearnTheBasics/Prep05_BasicRecursion/P08_StringPalindrome.java)
+- [Fibonacci Number](Step01_LearnTheBasics/Prep05_BasicRecursion/P09_FibonacciNumber.java)
+
+### Learn Basic Hashing
+- [Hashing Basic Program](Step01_LearnTheBasics/Prep06_BasicHashing/P01_Hashing.java)
+- [Counting frequencies of array elements](Step01_LearnTheBasics/Prep06_BasicHashing/P02_FrequencyOfElements.java)
+- [Find the highest/lowest frequency element](Step01_LearnTheBasics/Prep06_BasicHashing/P03_MaxFrequency.java)
+
 
 ## Sorting Techniques
 <!-- Add links to Matrices problems here -->
