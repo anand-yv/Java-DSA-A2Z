@@ -1,6 +1,6 @@
 package Step01_LearnTheBasics.Prep01_ThingsToKnowInLanguage;
 
-public class P01_DataTypes {
+public class P02_DataTypes {
     public static void main(String[] args) {
         // Primitive data types
         byte byteVar = 127;

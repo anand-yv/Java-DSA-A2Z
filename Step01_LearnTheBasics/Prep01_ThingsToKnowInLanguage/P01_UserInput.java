@@ -3,7 +3,7 @@ package Step01_LearnTheBasics.Prep01_ThingsToKnowInLanguage;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class P02_UserInput {
+public class P01_UserInput {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Something");
