@@ -17,6 +17,7 @@ This repository contains my solutions for the [Striver's A2Z DSA Sheet/Course](h
   - [Sorting 2](#sorting-2)
 - [Arrays](#arrays)
   - [Easy](#array-easy)
+  - [Medium](#array-medium)
 - [Linked Lists](#linked-lists)
 - [Stacks and Queues](#stacks-and-queues)
 - [Hashing](#hashing)
@@ -122,6 +123,18 @@ This repository contains my solutions for the [Striver's A2Z DSA Sheet/Course](h
   Find the number that appears once, and other numbers twice.](Step03_Arrays/Prep01_Easy/P12_SingleNumber.java)
 - [Longest subarray with given sum K(positives)](Step03_Arrays/Prep01_Easy/P13_LongestSubArray.java)
 - [Longest subarray with sum K (Positives + Negatives)](Step03_Arrays/Prep01_Easy/P14_LongestSubArrNegative.java)
+
+### Array Medium
+- [2Sum Problem](Step03_Arrays/Prep02_Medium/P01_TwoSum.java)
+- [Sort an array of 0's 1's and 2's](Step03_Arrays/Prep02_Medium/P02_Sort012.java)
+- [Majority Element (>n/2 times)](Step03_Arrays/Prep02_Medium/P03_MajorityElement.java)
+- [Kadane's Algorithm, maximum subarray sum](Step03_Arrays/Prep02_Medium/P04_MaximumSubArrayKadane.java)
+- [Print subarray with maximum subarray sum (extended version of above problem)](Step03_Arrays/Prep02_Medium/P05_MaxSubArrayKadaneExtended.java)
+- [Stock Buy and Sell](Step03_Arrays/Prep02_Medium/P06_BuyAndSellStock.java)
+- [Rearrange the array in alternating positive and negative items](Step03_Arrays/Prep02_Medium/P07_ReArrangeBySign.java) 
+- [Next Permutation](Step03_Arrays/Prep02_Medium/P08_NextPermutation.java)
+- [Leaders in an Array problem](Step03_Arrays/Prep02_Medium/P09_ArrayLeaders.java)
+- [Longest Consecutive Sequence in an Array](Step03_Arrays/Prep02_Medium/P10_LongestConsecutive.java)
 
 ## Linked Lists
 <!-- Add links to Linked Lists problems here -->
