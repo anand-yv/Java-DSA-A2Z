@@ -1,7 +1,7 @@
 # JavaDSA-A2Z
 ### Striver's A2Z DSA Sheet Solutions
 
-This repository contains my solutions for the [Striver's A2Z DSA Course](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) using Java.
+This repository contains my solutions for the [Striver's A2Z DSA Sheet/Course](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) using Java.
 
 ## Table of Contents
 
@@ -15,7 +15,8 @@ This repository contains my solutions for the [Striver's A2Z DSA Course](https:/
 - [Sorting Techniques](#sorting-techniques)
   - [Sorting 1](#sorting-1)
   - [Sorting 2](#sorting-2)
-- [Strings](#strings)
+- [Arrays](#arrays)
+  - [Easy](#array-easy)
 - [Linked Lists](#linked-lists)
 - [Stacks and Queues](#stacks-and-queues)
 - [Hashing](#hashing)
@@ -103,8 +104,24 @@ This repository contains my solutions for the [Striver's A2Z DSA Course](https:/
 - [Recursive Insertion Sort](Step02_SortingTechniques/Prep01_Sorting2/P03_RecursiveInsertionSort.java)
 - [Quick Sort](Step02_SortingTechniques/Prep01_Sorting2/P04_QuickSort.java)
 
-## Strings
+## Arrays
 <!-- Add links to Strings problems here -->
+### Array Easy
+- [Largest Element in an Array](Step03_Arrays/Prep01_Easy/P01_LargestElementInArray.java)
+- [Second Largest Element in an Array without sorting](Step03_Arrays/Prep01_Easy/P02_SecondLargestInArray.java)
+- [Check if the array is sorted](Step03_Arrays/Prep01_Easy/P03_CheckIfSortedArray.java)
+- [Remove duplicates from Sorted array](Step03_Arrays/Prep01_Easy/P04_RemoveDuplicatedSortedArray.java)
+- [Left Rotate an array by one place](Step03_Arrays/Prep01_Easy/P05_LeftRotateArrayByOne.java)
+- [Left rotate an array by D places](Step03_Arrays/Prep01_Easy/P06_LeftRotationByK.java)
+- [Move Zeros to end](Step03_Arrays/Prep01_Easy/P07_MoveZeroToEnd.java)
+- [Linear Search](Step03_Arrays/Prep01_Easy/P08_LinearSearch.java)
+- [Find the Union](Step03_Arrays/Prep01_Easy/P09_UnionSortedArray.java)
+- [Find missing number in an array](Step03_Arrays/Prep01_Easy/P10_MissingNumber.java)
+- [Maximum Consecutive Ones](Step03_Arrays/Prep01_Easy/P11_MaxConsecutiveOnes.java)
+- [
+  Find the number that appears once, and other numbers twice.](Step03_Arrays/Prep01_Easy/P12_SingleNumber.java)
+- [Longest subarray with given sum K(positives)](Step03_Arrays/Prep01_Easy/P13_LongestSubArray.java)
+- [Longest subarray with sum K (Positives + Negatives)](Step03_Arrays/Prep01_Easy/P14_LongestSubArrNegative.java)
 
 ## Linked Lists
 <!-- Add links to Linked Lists problems here -->
