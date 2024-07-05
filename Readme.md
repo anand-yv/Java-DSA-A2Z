@@ -18,6 +18,7 @@ This repository contains my solutions for the [Striver's A2Z DSA Sheet/Course](h
 - [Arrays](#arrays)
   - [Easy](#array-easy)
   - [Medium](#array-medium)
+  - [Hard](#array-hard)
 - [Linked Lists](#linked-lists)
 - [Stacks and Queues](#stacks-and-queues)
 - [Hashing](#hashing)
@@ -135,6 +136,16 @@ This repository contains my solutions for the [Striver's A2Z DSA Sheet/Course](h
 - [Next Permutation](Step03_Arrays/Prep02_Medium/P08_NextPermutation.java)
 - [Leaders in an Array problem](Step03_Arrays/Prep02_Medium/P09_ArrayLeaders.java)
 - [Longest Consecutive Sequence in an Array](Step03_Arrays/Prep02_Medium/P10_LongestConsecutive.java)
+- [Set Matrix Zeros](Step03_Arrays/Prep02_Medium/P11_SetMatrixZeros.java)
+- [Rotate Matrix by 90 degrees](Step03_Arrays/Prep02_Medium/P12_RotateMatrix.java)
+- [Print the matrix in spiral manner](Step03_Arrays/Prep02_Medium/P13_SpiralMatrix.java)
+- [Count subarrays with given sum](Step03_Arrays/Prep02_Medium/P14_CountSubArray.java)
+
+### Array Hard
+-[Pascal's Triangle](Step03_Arrays/Prep03_Hard/P01_PascalsTriangle.java)
+-[Majority Element (n/3 times)](Step03_Arrays/Prep03_Hard/P02_MajorityElement.java)
+-[3-Sum Problem](Step03_Arrays/Prep03_Hard/P03_3Sum.java)
+-[4-Sum Problem](Step03_Arrays/Prep03_Hard/P04_4Sum.java)
 
 ## Linked Lists
 <!-- Add links to Linked Lists problems here -->
