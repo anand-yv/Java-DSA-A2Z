@@ -8,16 +8,16 @@ public class P02_MajorityElement {
         List<Integer> res = new ArrayList<>();
         int count1 = 0, count2 = 0;
         int ele1 = Integer.MIN_VALUE, ele2 = Integer.MIN_VALUE;
-        for (int j : nums) {
-            if (count1 == 0 && ele2 != j) {
-                ele1 = j;
+        for (int num : nums) {
+            if (count1 == 0 && ele2 != num) {
+                ele1 = num;
                 count1 += 1;
-            } else if (count2 == 0 && ele1 != j) {
-                ele2 = j;
+            } else if (count2 == 0 && ele1 != num) {
+                ele2 = num;
                 count2 += 1;
-            } else if (ele1 == j) {
+            } else if (ele1 == num) {
                 count1 += 1;
-            } else if (ele2 == j) {
+            } else if (ele2 == num) {
                 count2 += 1;
             } else {
                 count1--;
