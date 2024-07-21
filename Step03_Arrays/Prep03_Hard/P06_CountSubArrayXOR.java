@@ -9,11 +9,11 @@ public class P06_CountSubArrayXOR {
         prefXor.put(0,1);
         int xor = 0;
         int countSub = 0;
-        for(int i = 0; i < nums.length; i++){
-            xor ^= nums[i];
+        for (int num : nums) {
+            xor ^= num;
 
             int rem = xor ^ target;
-            if(prefXor.containsKey(rem)){
+            if (prefXor.containsKey(rem)) {
                 countSub += prefXor.get(rem);
             }
             prefXor.put(xor, prefXor.getOrDefault(xor, 0) + 1);

@@ -142,10 +142,18 @@ This repository contains my solutions for the [Striver's A2Z DSA Sheet/Course](h
 - [Count subarrays with given sum](Step03_Arrays/Prep02_Medium/P14_CountSubArray.java)
 
 ### Array Hard
--[Pascal's Triangle](Step03_Arrays/Prep03_Hard/P01_PascalsTriangle.java)
--[Majority Element (n/3 times)](Step03_Arrays/Prep03_Hard/P02_MajorityElement.java)
--[3-Sum Problem](Step03_Arrays/Prep03_Hard/P03_3Sum.java)
--[4-Sum Problem](Step03_Arrays/Prep03_Hard/P04_4Sum.java)
+- [Pascal's Triangle](Step03_Arrays/Prep03_Hard/P01_PascalsTriangle.java)
+- [Majority Element (n/3 times)](Step03_Arrays/Prep03_Hard/P02_MajorityElement.java)
+- [3-Sum Problem](Step03_Arrays/Prep03_Hard/P03_3Sum.java)
+- [4-Sum Problem](Step03_Arrays/Prep03_Hard/P04_4Sum.java)
+- [Largest Subarray with 0 Sum](Step03_Arrays/Prep03_Hard/P05_LongestSubArray0Sum.java)
+- [Count number of subarrays with given xor K](Step03_Arrays/Prep03_Hard/P06_CountSubArrayXOR.java)
+- [Merge Overlapping Subintervals](Step03_Arrays/Prep03_Hard/P07_MergeOverlapping.java)
+- [Merge two sorted arrays without extra space](Step03_Arrays/Prep03_Hard/P07_MergeSortedArray.java)
+- [Find the repeating and missing number](Step03_Arrays/Prep03_Hard/P08_FindMissingRepeating.java)
+- [Count Inversions](Step03_Arrays/Prep03_Hard/P09_CountInversions.java)
+- [Reverse Pairs](Step03_Arrays/Prep03_Hard/P10_ReversePairs.java)
+- [Maximum Product Subarray](Step03_Arrays/Prep03_Hard/P11_MaxProductSubArray.java)
 
 ## Linked Lists
 <!-- Add links to Linked Lists problems here -->

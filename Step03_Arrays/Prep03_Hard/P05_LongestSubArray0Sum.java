@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class P05_LongestSubArray0Sum {
-    public int maxLen(int nums[], int n) {
+    public int maxLen(int[] nums, int n) {
         // Your code here
         Map<Integer, Integer> prefSum = new HashMap<>();
         int sum = 0;

@@ -34,7 +34,7 @@ Constraints:
 
 
 public class P02_FrequencyOfElements {
-    public static void frequencyCount(int arr[], int N, int P) {
+    public static void frequencyCount(int[] arr, int N, int P) {
         // code here
         Map<Integer, Integer> freqEle = new HashMap<>();
         for (int num : arr) {

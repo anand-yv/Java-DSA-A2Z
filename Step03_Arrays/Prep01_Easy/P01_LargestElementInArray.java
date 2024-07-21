@@ -1,5 +1,15 @@
 package Step03_Arrays.Prep01_Easy;
 
+public class P01_LargestElementInArray {
+    public int largest(int[] arr, int n) {
+        int max = 0;
+        for (int j : arr) {
+            if (max < j) max = j;
+        }
+        return max;
+    }
+}
+
 /*
 Largest Element in Array
 
@@ -44,13 +54,3 @@ Constraints:
 Array may contain duplicate elements.
 
  */
-
-public class P01_LargestElementInArray {
-    public int largest(int[] arr, int n) {
-        int max = 0;
-        for (int j : arr) {
-            if (max < j) max = j;
-        }
-        return max;
-    }
-}
