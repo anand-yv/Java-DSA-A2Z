@@ -19,6 +19,10 @@ This repository contains my solutions for the [Striver's A2Z DSA Sheet/Course](h
   - [Easy](#array-easy)
   - [Medium](#array-medium)
   - [Hard](#array-hard)
+- [Binary Search](#binary-search)
+  - [BS on 1D Array](#bs-on-1D-array)
+  - [BS on Ans](#bs-on-ans)
+  - [BS on 2D Array](#bs-on-2D-array)
 - [Linked Lists](#linked-lists)
 - [Stacks and Queues](#stacks-and-queues)
 - [Hashing](#hashing)
@@ -154,6 +158,28 @@ This repository contains my solutions for the [Striver's A2Z DSA Sheet/Course](h
 - [Count Inversions](Step03_Arrays/Prep03_Hard/P09_CountInversions.java)
 - [Reverse Pairs](Step03_Arrays/Prep03_Hard/P10_ReversePairs.java)
 - [Maximum Product Subarray](Step03_Arrays/Prep03_Hard/P11_MaxProductSubArray.java)
+
+## Binary Search
+
+### BS on 1D Array
+- [Binary Search to find X in sorted array](Step04_BinarySearch/Prep01_BSon1D/P01_BinarySearch.java)
+- [Implement Lower Bound](Step04_BinarySearch/Prep01_BSon1D/P02_LowerBound.java)
+- [Implement Upper Bound](Step04_BinarySearch/Prep01_BSon1D/P03_UpperBound.java)
+- [Search Insert Position](Step04_BinarySearch/Prep01_BSon1D/P04_InsertPosition.java)
+- [Floor/Ceil in Sorted Array](Step04_BinarySearch/Prep01_BSon1D/P05_FloorCeilSorted.java)
+- [Find the first or last occurrence of a given number in a sorted array](Step04_BinarySearch/Prep01_BSon1D/P06_FistLastOccurrence.java)
+- [Count occurrences of a number in a sorted array with duplicates](Step04_BinarySearch/Prep01_BSon1D/P07_NumberOfOccurrence.java)
+- [Search in Rotated Sorted Array I](Step04_BinarySearch/Prep01_BSon1D/P08_SearchRotatedSortedArray1.java)
+- [Search in Rotated Sorted Array II](Step04_BinarySearch/Prep01_BSon1D/P09_SearchRotatedSortedArray2.java)
+- [Find minimum in Rotated Sorted Array](Step04_BinarySearch/Prep01_BSon1D/P10_MinRotatedSorted.java)
+- [Find out how many times has an array been rotated](Step04_BinarySearch/Prep01_BSon1D/P11_NumberOfRotations.java)
+- [Single element in a Sorted Array](Step04_BinarySearch/Prep01_BSon1D/P12_SingleElement.java)
+- [Find peak element](Step04_BinarySearch/Prep01_BSon1D/P13_PeakElement.java)
+
+### BS on Ans
+
+
+### BS on 2D Array
 
 ## Linked Lists
 <!-- Add links to Linked Lists problems here -->
