@@ -1,4 +1,6 @@
-class Solution {
+package Step04_BinarySearch.Prep02_BSonAns;
+
+public class P10_SplitSubArray {
     public int splitArray(int[] nums, int k) {
         int low = 0, high = 0;
         for(int num: nums){
@@ -30,12 +32,5 @@ class Solution {
             }
         }
         return countSub > target;
-    }
-
-    public static void main(String[] args){
-        Solution sol = new Solution();
-//        int[] nums = new int[]{7,2,5,10,8};
-        int[] nums = new int[]{1, 2, 3, 4, 5};
-        System.out.println(sol.splitArray(nums, 2));
     }
 }
