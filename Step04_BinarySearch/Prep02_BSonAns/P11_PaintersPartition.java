@@ -1,7 +1,8 @@
+package Step04_BinarySearch.Prep02_BSonAns;
+
 import java.util.ArrayList;
 
-public class Solution
-{
+public class P11_PaintersPartition {
     public static int findLargestMinDistance(ArrayList<Integer> boards, int k)
     {
         //    Write your code here.
