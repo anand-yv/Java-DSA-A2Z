@@ -49,7 +49,7 @@ public class P12_GasStations {
     public static double findSmallestMaxDistBetter(int[] stations, int k) {
         int n = stations.length;
         int[] howMany = new int[n-1];
-        PriorityQueue<Pair> pQueue = new PriorityQueue<>((a, b) -> Double.compare(a.first, b.first));
+        PriorityQueue<Pair> pQueue = new PriorityQueue<>((a, b) -> Double.compare(b.first, a.first));
 
         for (int i = 0; i < n-1; i++){
             pQueue.add(new Pair(stations[i + 1] - stations[i], i));

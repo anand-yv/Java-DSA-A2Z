@@ -1,7 +1,7 @@
 # JavaDSA-A2Z
 ### Striver's A2Z DSA Sheet Solutions
 
-This repository contains my solutions for the [Striver's A2Z DSA Sheet/Course](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) using Java.
+This repository contains my solutions and knowledge acquired from the [Striver's A2Z DSA Sheet/Course](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) using Java.
 
 ## Table of Contents
 
@@ -177,9 +177,27 @@ This repository contains my solutions for the [Striver's A2Z DSA Sheet/Course](h
 - [Find peak element](Step04_BinarySearch/Prep01_BSon1D/P13_PeakElement.java)
 
 ### BS on Ans
-
+ - [Find square root of a number in log n](Step04_BinarySearch/Prep02_BSonAns/P01_SqrtOfNumber.java)
+ - [Find the Nth root of a number using binary search](Step04_BinarySearch/Prep02_BSonAns/P02_NthRootOfNumber.java)
+ - [Koko Eating Bananas](Step04_BinarySearch/Prep02_BSonAns/P03_KotEatBanana.java)
+ - [Minimum days to make M bouquets](Step04_BinarySearch/Prep02_BSonAns/P04_MBouquets.java)
+ - [Find the smallest Divisor](Step04_BinarySearch/Prep02_BSonAns/P05_SmallestDivisor.java)
+ - [Capacity to Ship Packages within D Days](Step04_BinarySearch/Prep02_BSonAns/P06_ShipPackages.java)
+ - [Kth Missing Positive Number](Step04_BinarySearch/Prep02_BSonAns/P07_KthMissingPositive.java)
+ - [Aggressive Cows](Step04_BinarySearch/Prep02_BSonAns/P08_AggressiveCows.java)
+ - [Book Allocation Problem](Step04_BinarySearch/Prep02_BSonAns/P09_AllocateBooks.java)
+ - [Split array - Largest Sum](Step04_BinarySearch/Prep02_BSonAns/P10_SplitSubArray.java)
+ - [Painter's partition](Step04_BinarySearch/Prep02_BSonAns/P11_PaintersPartition.java)
+ - [Minimize Max Distance to Gas Station](Step04_BinarySearch/Prep02_BSonAns/P12_GasStations.java)
+ - [Median of 2 sorted arrays](Step04_BinarySearch/Prep02_BSonAns/P13_Median.java)
+ - [Kth element of 2 sorted arrays](Step04_BinarySearch/Prep02_BSonAns/P14_KthElementSortedArray.java)
 
 ### BS on 2D Array
+- [Find the row with maximum number of 1's](Step04_BinarySearch/Prep03_BSon2D/P01_RowWithMax1s.java)
+- [Search in a 2 D matrix](Step04_BinarySearch/Prep03_BSon2D/P02_Search2DMatrix.java)
+- [Search in a row and column wise sorted matrix](Step04_BinarySearch/Prep03_BSon2D/P03_Search2DMatrixII.java)
+- [Find Peak Element (2D Matrix)](Step04_BinarySearch/Prep03_BSon2D/P04_FindPeakElementII.java)
+- [Matrix Median](Step04_BinarySearch/Prep03_BSon2D/P05_MatrixMedian.java)
 
 ## Linked Lists
 <!-- Add links to Linked Lists problems here -->
