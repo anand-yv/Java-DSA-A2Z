@@ -23,6 +23,9 @@ This repository contains my solutions and knowledge acquired from the [Striver's
   - [BS on 1D Array](#bs-on-1D-array)
   - [BS on Ans](#bs-on-ans)
   - [BS on 2D Array](#bs-on-2D-array)
+- [String Basic and Medium](#string-basic-medium)
+  - [Easy](#string-easy)
+  - [Medium](#string-medium)
 - [Linked Lists](#linked-lists)
 - [Stacks and Queues](#stacks-and-queues)
 - [Hashing](#hashing)
@@ -198,6 +201,27 @@ This repository contains my solutions and knowledge acquired from the [Striver's
 - [Search in a row and column wise sorted matrix](Step04_BinarySearch/Prep03_BSon2D/P03_Search2DMatrixII.java)
 - [Find Peak Element (2D Matrix)](Step04_BinarySearch/Prep03_BSon2D/P04_FindPeakElementII.java)
 - [Matrix Median](Step04_BinarySearch/Prep03_BSon2D/P05_MatrixMedian.java)
+
+## String Basic Medium
+
+### String Easy
+- [Remove Outermost Parantheses](Step05_StringsBasicMedium/Prep01_Easy/P01_RemoveOutermostParantheses.java)
+- [Reverse words in a given string / Palindrome Check](Step05_StringsBasicMedium/Prep01_Easy/P02_ReverseWord.java)
+- [Largest odd number in a string](Step05_StringsBasicMedium/Prep01_Easy/P03_LargestOddNumber.java)
+- [Longest Common Prefix](Step05_StringsBasicMedium/Prep01_Easy/P04_LongestCommonPrefix.java)
+- [Isomorphic String](Step05_StringsBasicMedium/Prep01_Easy/P05_IsomorphicString.java)
+- [Check whether one string is a rotation of another](Step05_StringsBasicMedium/Prep01_Easy/P06_RotateString.java)
+- [Check if two strings are anagram of each other](Step05_StringsBasicMedium/Prep01_Easy/P07_ValidAnagram.java)
+
+### String Medium
+- [Sort Characters by frequency](Step05_StringsBasicMedium/Prep02_Medium/P01_SortCharacterByFrequency.java)
+- [Sort Characters by frequency](Step05_StringsBasicMedium/Prep02_Medium/P02_MaximumNestingDepth.java)
+- [Roman Number to Integer and vice versa](Step05_StringsBasicMedium/Prep02_Medium/P03_RomanToInteger.java)
+- [Implement Atoi](Step05_StringsBasicMedium/Prep02_Medium/P04_ImplementAtoi.java)
+- [Count Number of Substrings](Step05_StringsBasicMedium/Prep02_Medium/P05_CountNumberOfSubstrings.java)
+- [Longest Palindromic Substring[Do it without DP]](Step05_StringsBasicMedium/Prep02_Medium/P06_LongestPalindromicSubstring.java)
+- [Sum of Beauty of all substring](Step05_StringsBasicMedium/Prep02_Medium/P07_SumOfBeautySubString.java)
+- [Reverse Every Word in A String](Step05_StringsBasicMedium/Prep02_Medium/P08_ReverseWordString.java)
 
 ## Linked Lists
 <!-- Add links to Linked Lists problems here -->
