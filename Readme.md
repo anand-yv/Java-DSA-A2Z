@@ -27,6 +27,11 @@ This repository contains my solutions and knowledge acquired from the [Striver's
   - [Easy](#string-easy)
   - [Medium](#string-medium)
 - [Linked Lists](#linked-lists)
+  - [Learn 1D LinkedList](#learn-1d-ll)
+  - [Learn Doubly LinkedList](#learn-dll)
+  - [Medium Problems of LL](#medium-ll)
+  - [Medium Problems of DLL](#medium-dll)
+  - [Hard Problems of LL](#hard-ll)
 - [Stacks and Queues](#stacks-and-queues)
 - [Hashing](#hashing)
 - [Recursion and Backtracking](#recursion-and-backtracking)
@@ -225,6 +230,25 @@ This repository contains my solutions and knowledge acquired from the [Striver's
 
 ## Linked Lists
 <!-- Add links to Linked Lists problems here -->
+### Learn 1D LL
+- [Introduction to LinkedList, learn about struct, and how is node represented](Step06_LinkedList/Prep01_Learn1DLinkedList/P01_ArrayToLL.java)
+- [Inserting a node in LinkedList](Step06_LinkedList/Prep01_Learn1DLinkedList/P02_InsertionLL.java)
+- [Deleting a node in LinkedList](Step06_LinkedList/Prep01_Learn1DLinkedList/P03_DeletionLL.java)
+- [Find the length of the linkedlist [learn traversal]](Step06_LinkedList/Prep01_Learn1DLinkedList/P04_LengthLL.java)
+- [Search an element in the LL](Step06_LinkedList/Prep01_Learn1DLinkedList/P05_SearchLL.java)
+
+### Learn DLL
+
+
+### Medium LL
+
+
+### Medium DLL
+
+
+### Hard LL
+
+
 
 ## Stacks and Queues
 <!-- Add links to Stacks and Queues problems here -->
